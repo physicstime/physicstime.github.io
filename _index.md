@@ -7,5 +7,5 @@
 
 ### Τεύχη:
 
-- [Τεύχος 2 (2/2020)](issues/2020-02-physics_time.pdf)
+- [Τεύχος 2 (2/2020)](_issues/2020-02-physics_time.pdf)
 	
